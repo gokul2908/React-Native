@@ -36,23 +36,6 @@ export default StyleSheet.create({
     },
     Operatorbutton: {
       backgroundColor: '#d3de59',
-      paddingHorizontal: 8,
-      paddingVertical: 9,
-      borderRadius: 22,
-      height: '90%',
-      width: '22%',
-      textAlignVertical: 'center',
-      margin: 5,
-    },
-    equal2button: {
-      backgroundColor: '#e63e2c',
-      paddingHorizontal: 8,
-      paddingVertical: 9,
-      borderRadius: 22,
-      height: '90%',
-      width: '22%',
-      textAlignVertical: 'center',
-      margin: 5,
     },
   });
   
